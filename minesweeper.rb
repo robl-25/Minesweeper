@@ -156,7 +156,7 @@ class SimplePrinter
   end
 end
 
-# Cut printing of the mined field
+# Cute printing of the mined field
 class PrettyPrinter
   def custom_print(list)
     field = list[0]
